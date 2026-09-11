@@ -1,0 +1,11 @@
+{
+    "version": "1.21.30",
+    "updated": "2026-09-11",
+    "offsets": {
+        "lua_state": "0x0",
+        "script_context": "0x0",
+        "identity_ptr": "0x0",
+        "get_global_state": "0x0"
+    },
+    "note": "Offsets change weekly. Update after each Roblox patch."
+}
